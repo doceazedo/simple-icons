@@ -1661,6 +1661,16 @@
             "source": "https://blueprintjs.com"
         },
         {
+            "title": "Bluesky",
+            "hex": "0560FF",
+            "source": "https://atproto.com",
+            "aliases": {
+                "aka": [
+                    "bsky"
+                ]
+            }
+        },
+        {
             "title": "Bluetooth",
             "hex": "0082FC",
             "source": "https://www.bluetooth.com/develop-with-bluetooth/marketing-branding/"
